@@ -122,8 +122,7 @@ public class SimpleCalculator {
 	 * @return An integer that is the quotient of the arguments
 	 */
 	private int divide(int num1, int num2) {
-		// TODO: Complete this method
-		return 0;
+		return num1 / num2;
 	}
 
 }
